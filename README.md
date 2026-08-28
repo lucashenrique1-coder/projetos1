@@ -62,16 +62,28 @@ Projeto voltado à apresentação de receitas acessíveis para crianças com TEA
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Atividade no GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucashenrique1-coder&theme=github_dark" />
+<img 
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=lucashenrique1-coder&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias"
+/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucashenrique1-coder&theme=github_dark" />
+<br>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucashenrique1-coder&theme=github_dark"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucashenrique1-coder&theme=github_dark"
+/>
 
 </div>
----
 
 ## 📫 Entre em contato
 
