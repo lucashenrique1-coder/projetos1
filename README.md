@@ -1,64 +1,111 @@
 <div align="center">
 
-# Olá, eu sou o Lucas Henrique 👋
+# 👋 Olá, eu sou Lucas Henrique
 
-### Desenvolvedor Backend em formação | Java • AWS • SQL
+### Desenvolvedor Backend em formação
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac PR**  
-e atuo como **Jovem Aprendiz em Suporte Técnico**.
+`Java` • `SQL` • `AWS` • `Docker` • `Git` • `Linux`
 
-Busco desenvolver soluções úteis por meio da tecnologia e construir  
-minha carreira nas áreas de **Desenvolvimento Backend e Cloud Computing**.
+Estudante de **Análise e Desenvolvimento de Sistemas no Senac PR**  
+e **Jovem Aprendiz em Suporte Técnico**.
+
+Busco construir minha carreira em  
+**Desenvolvimento Backend e Cloud Computing**.
+
+<br>
+
+<a href="https://www.linkedin.com/in/lucas-henrique-3361233b6">
+  <img src="https://img.shields.io/badge/LinkedIn-Lucas_Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/lucashenrique1-coder">
+  <img src="https://img.shields.io/badge/GitHub-lucashenrique1--coder-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Perfil profissional
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas — Senac PR
-- 💼 Jovem Aprendiz em Suporte Técnico
-- ☕ Estudando desenvolvimento backend com Java
-- ☁️ Aprendendo AWS e computação em nuvem
-- 🗄️ Desenvolvendo conhecimentos em bancos de dados e SQL
-- 🚀 Em busca de evolução constante e novos desafios
+- 💼 Experiência em **Suporte Técnico**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- ☕ Foco em **Desenvolvimento Backend com Java**
+- ☁️ Interesse em **AWS e Cloud Computing**
+- 🗄️ Conhecimentos em **SQL e bancos de dados**
+- 🐳 Estudos em **Docker e conteinerização**
+- 🐧 Familiaridade com **Linux, Git e GitHub**
+- 🚀 Em busca de evolução e experiência na área de tecnologia
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,aws,git,github,docker,linux&theme=dark" />
+### Backend e banco de dados
+
+<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark">
+
+<br><br>
+
+### Cloud e DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark">
+
+<br><br>
+
+### Desenvolvimento e versionamento
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark">
+
+<br><br>
+
+### Desenvolvimento web
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark">
 
 </div>
 
 ---
 
-## 📚 Atualmente estudando
+## 🎯 Áreas de interesse
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Backend](https://img.shields.io/badge/Desenvolvimento_Backend-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![AWS](https://img.shields.io/badge/Cloud_Computing-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![SQL](https://img.shields.io/badge/Banco_de_Dados-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![DevOps](https://img.shields.io/badge/DevOps-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </div>
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos
 
 ### ♻️ Ecologic
 
-Solução tecnológica desenvolvida para apoiar catadores de materiais recicláveis, melhorar a localização de coletas e gerar impacto socioambiental.
+Solução tecnológica voltada ao apoio de catadores de materiais recicláveis, facilitando a localização de coletas e promovendo impacto socioambiental.
+
+**Palavras-chave:** `Tecnologia` `Geolocalização` `Sustentabilidade` `Impacto social`
+
+---
 
 ### 🍳 Receita Divertida
 
-Projeto voltado à apresentação de receitas acessíveis para crianças com TEA e seus cuidadores, utilizando filtros e instruções passo a passo.
+Aplicação de receitas acessíveis para crianças com TEA e seus cuidadores, com filtros e instruções de preparo passo a passo.
 
-> Em breve, novos projetos desenvolvidos com Java, SQL e AWS.
+**Palavras-chave:** `Acessibilidade` `Experiência do usuário` `Análise de requisitos` `Inclusão`
+
+---
+
+### ☕ Projeto Backend com Java
+
+Projeto em desenvolvimento para aplicar Programação Orientada a Objetos, banco de dados, API REST e boas práticas de desenvolvimento.
+
+**Palavras-chave:** `Java` `POO` `SQL` `API REST` `Git` `Docker`
 
 ---
 
@@ -66,7 +113,7 @@ Projeto voltado à apresentação de receitas acessíveis para crianças com TEA
 
 <div align="center">
 
-<img 
+<img
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=lucashenrique1-coder&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias"
 />
@@ -85,20 +132,14 @@ Projeto voltado à apresentação de receitas acessíveis para crianças com TEA
 
 </div>
 
-## 📫 Entre em contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-3361233b6)
-
-[![GitHub](https://img.shields.io/badge/GitHub-lucashenrique1--coder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucashenrique1-coder)
-
-</div>
-
 ---
 
-<div align="center">
+## 📚 Atualmente estudando
 
-### “Evoluindo 1% a cada dia.” 🚀
-
-</div>
+```text
+Java e Programação Orientada a Objetos
+Desenvolvimento Backend
+SQL e modelagem de bancos de dados
+AWS e Cloud Computing
+Docker e conteinerização
+Git e versionamento de código
