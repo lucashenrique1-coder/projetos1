@@ -2,15 +2,15 @@
 
 # 👋 Olá, eu sou Lucas Henrique
 
-### Desenvolvedor Backend em formação
+### ☕ Backend Java em formação | ☁️ Cloud & AWS
 
-`Java` • `SQL` • `AWS` • `Docker` • `Git` • `Linux`
+`Java` • `SQL` • `PostgreSQL` • `AWS` • `Docker` • `Git` • `Linux`
 
-Estudante de **Análise e Desenvolvimento de Sistemas no Senac PR**  
-e **Jovem Aprendiz em Suporte Técnico**.
+🎓 Análise e Desenvolvimento de Sistemas — **Senac PR**  
+💼 Jovem Aprendiz em **Suporte Técnico**
 
-Busco construir minha carreira em  
-**Desenvolvimento Backend e Cloud Computing**.
+Atualmente desenvolvendo minhas habilidades em **Backend**,  
+**Banco de Dados** e **Cloud Computing**.
 
 <br>
 
@@ -26,49 +26,45 @@ Busco construir minha carreira em
 
 ---
 
-## 👨‍💻 Perfil profissional
+## 👨‍💻 Sobre mim
 
-- 💼 Experiência em **Suporte Técnico**
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- ☕ Foco em **Desenvolvimento Backend com Java**
-- ☁️ Interesse em **AWS e Cloud Computing**
-- 🗄️ Conhecimentos em **SQL, MySQL e PostgreSQL**
-- 🐳 Estudos em **Docker e conteinerização**
-- 🐧 Familiaridade com **Linux, Git e GitHub**
-- 🎨 Experiência com **Figma para prototipação e interfaces**
-- 🚀 Em busca de evolução e experiência na área de tecnologia
+Minha trajetória na tecnologia começou com **Suporte Técnico**, onde adquiro experiência prática com resolução de problemas e ambientes computacionais.
+
+Paralelamente, venho direcionando meus estudos para **Desenvolvimento Backend com Java**, bancos de dados relacionais e tecnologias de Cloud.
+
+Meu objetivo é evoluir como desenvolvedor construindo projetos que apliquem conceitos de **POO, APIs, SQL, Docker e AWS**.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Stack e ferramentas
 
 <div align="center">
 
-### Backend e banco de dados
+### ☕ Backend & Banco de Dados
 
 <img src="https://skillicons.dev/icons?i=java,mysql,postgresql&theme=dark">
 
 <br><br>
 
-### Cloud e DevOps
+### ☁️ Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark">
 
 <br><br>
 
-### Desenvolvimento e versionamento
+### 🔧 Desenvolvimento & Versionamento
 
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark">
 
 <br><br>
 
-### Desenvolvimento web
+### 🌐 Web
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark">
 
 <br><br>
 
-### Design e prototipação
+### 🎨 Prototipação
 
 <img src="https://skillicons.dev/icons?i=figma&theme=dark">
 
@@ -76,41 +72,68 @@ Busco construir minha carreira em
 
 ---
 
-## 🎯 Áreas de interesse
+## 🚀 Projetos em destaque
 
-<div align="center">
+### ☕ Sistema de Help Desk — Java
 
-![Backend](https://img.shields.io/badge/Desenvolvimento_Backend-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![AWS](https://img.shields.io/badge/Cloud_Computing-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![SQL](https://img.shields.io/badge/Banco_de_Dados-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![DevOps](https://img.shields.io/badge/DevOps-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+Sistema para gerenciamento de chamados desenvolvido como projeto de estudo em Backend.
 
-</div>
+**Conceitos aplicados:**
+
+`Java` `POO` `Encapsulamento` `Git`
+
+> 🚧 Projeto em desenvolvimento — novas funcionalidades serão adicionadas conforme avanço nos estudos.
 
 ---
 
-## 📌 Projetos
-
 ### ♻️ Ecologic
 
-Solução tecnológica voltada ao apoio de catadores de materiais recicláveis, facilitando a localização de coletas e promovendo impacto socioambiental.
+Solução tecnológica voltada ao apoio de catadores de materiais recicláveis, facilitando a localização de oportunidades de coleta e promovendo impacto socioambiental.
+
+**Áreas trabalhadas:**
+
+`Análise de requisitos` `Geolocalização` `UX` `Sustentabilidade`
 
 ---
 
 ### 🍳 Receita Divertida
 
-Aplicação de receitas acessíveis para crianças com TEA e seus cuidadores, com filtros e instruções de preparo passo a passo.
+Aplicação voltada à apresentação de receitas acessíveis para crianças com TEA e seus cuidadores, utilizando filtros e instruções de preparo passo a passo.
+
+**Áreas trabalhadas:**
+
+`Análise de requisitos` `UX` `Figma` `Acessibilidade`
 
 ---
 
-### ☕ Projeto Backend com Java
+## 🎯 Foco atual
 
-Projeto em desenvolvimento para aplicar Programação Orientada a Objetos, banco de dados, API REST e boas práticas de desenvolvimento.
+<div align="center">
+
+![Backend](https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![AWS](https://img.shields.io/badge/AWS_Cloud-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+</div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📚 Atualmente estudando
+
+```text
+☕ Java e Programação Orientada a Objetos
+⚙️ Desenvolvimento Backend
+🗄️ SQL, MySQL e PostgreSQL
+☁️ AWS e Cloud Computing
+🐳 Docker e conteinerização
+🔧 Git e versionamento de código
+```
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
@@ -149,14 +172,11 @@ Projeto em desenvolvimento para aplicar Programação Orientada a Objetos, banco
 <sub>☕ Java • ☁️ AWS • evolução constante</sub>
 
 </div>
+
 ---
 
-## 📚 Atualmente estudando
+<div align="center">
 
-```text
-Java e Programação Orientada a Objetos
-Desenvolvimento Backend
-SQL, MySQL e PostgreSQL
-AWS e Cloud Computing
-Docker e conteinerização
-Git e versionamento de código
+### 🚀 Construindo conhecimento um commit de cada vez.
+
+</div>
