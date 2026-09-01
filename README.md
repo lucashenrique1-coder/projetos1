@@ -135,12 +135,12 @@ Projeto em desenvolvimento para aplicar Programação Orientada a Objetos, banco
 
 ---
 
-## 🐍 Minhas contribuições
+### 🐍 Minhas contribuições
 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/lucashenrique1-coder/lucashenrique1-coder/gh-pages/github-contribution-grid-snake-dark.svg"
+  src="https://raw.githubusercontent.com/lucashenrique1-coder/projetos1/gh-pages/github-contribution-grid-snake-dark.svg"
   alt="Snake animation"
 />
 
