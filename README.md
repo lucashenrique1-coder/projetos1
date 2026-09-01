@@ -18,7 +18,7 @@ Busco construir minha carreira em
   <img src="https://img.shields.io/badge/LinkedIn-Lucas_Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/luquinhasskkj">
+<a https://github.com/lucashenrique1-coder>
   <img src="https://img.shields.io/badge/GitHub-luquinhasskkj-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
