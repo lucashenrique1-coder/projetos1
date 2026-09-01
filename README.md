@@ -106,18 +106,6 @@ Aplicação voltada à apresentação de receitas acessíveis para crianças com
 
 `Análise de requisitos` `UX` `Figma` `Acessibilidade`
 
-> 📦 Projeto concluído — documentação e arquivos serão adicionados em breve ao GitHub.
-
----
-
-### 🍳 Receita Divertida
-
-Aplicação voltada à apresentação de receitas acessíveis para crianças com TEA e seus cuidadores, utilizando filtros e instruções de preparo passo a passo.
-
-**Áreas trabalhadas:**
-
-`Análise de requisitos` `UX` `Figma` `Acessibilidade`
-
 ---
 
 ## 🎯 Foco atual
