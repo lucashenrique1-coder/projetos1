@@ -144,8 +144,11 @@ Projeto em desenvolvimento para aplicar Programação Orientada a Objetos, banco
   alt="Snake animation"
 />
 
-</div>
+<br>
 
+<sub>☕ Java • ☁️ AWS • evolução constante</sub>
+
+</div>
 ---
 
 ## 📚 Atualmente estudando
