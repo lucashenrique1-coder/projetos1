@@ -32,9 +32,10 @@ Busco construir minha carreira em
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - ☕ Foco em **Desenvolvimento Backend com Java**
 - ☁️ Interesse em **AWS e Cloud Computing**
-- 🗄️ Conhecimentos em **SQL e bancos de dados**
+- 🗄️ Conhecimentos em **SQL, MySQL e PostgreSQL**
 - 🐳 Estudos em **Docker e conteinerização**
 - 🐧 Familiaridade com **Linux, Git e GitHub**
+- 🎨 Experiência com **Figma para prototipação e interfaces**
 - 🚀 Em busca de evolução e experiência na área de tecnologia
 
 ---
@@ -45,7 +46,7 @@ Busco construir minha carreira em
 
 ### Backend e banco de dados
 
-<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark">
+<img src="https://skillicons.dev/icons?i=java,mysql,postgresql&theme=dark">
 
 <br><br>
 
@@ -65,6 +66,12 @@ Busco construir minha carreira em
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark">
 
+<br><br>
+
+### Design e prototipação
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark">
+
 </div>
 
 ---
@@ -76,7 +83,7 @@ Busco construir minha carreira em
 ![Backend](https://img.shields.io/badge/Desenvolvimento_Backend-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![AWS](https://img.shields.io/badge/Cloud_Computing-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![SQL](https://img.shields.io/badge/Banco_de_Dados-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQL](https://img.shields.io/badge/Banco_de_Dados-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![DevOps](https://img.shields.io/badge/DevOps-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </div>
@@ -89,23 +96,17 @@ Busco construir minha carreira em
 
 Solução tecnológica voltada ao apoio de catadores de materiais recicláveis, facilitando a localização de coletas e promovendo impacto socioambiental.
 
-
-
 ---
 
 ### 🍳 Receita Divertida
 
 Aplicação de receitas acessíveis para crianças com TEA e seus cuidadores, com filtros e instruções de preparo passo a passo.
 
-
-
 ---
 
 ### ☕ Projeto Backend com Java
 
 Projeto em desenvolvimento para aplicar Programação Orientada a Objetos, banco de dados, API REST e boas práticas de desenvolvimento.
-
-
 
 ---
 
@@ -144,6 +145,7 @@ Projeto em desenvolvimento para aplicar Programação Orientada a Objetos, banco
 />
 
 </div>
+
 ---
 
 ## 📚 Atualmente estudando
@@ -151,7 +153,7 @@ Projeto em desenvolvimento para aplicar Programação Orientada a Objetos, banco
 ```text
 Java e Programação Orientada a Objetos
 Desenvolvimento Backend
-SQL e modelagem de bancos de dados
+SQL, MySQL e PostgreSQL
 AWS e Cloud Computing
 Docker e conteinerização
 Git e versionamento de código
