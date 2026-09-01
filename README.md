@@ -89,7 +89,7 @@ Busco construir minha carreira em
 
 Solução tecnológica voltada ao apoio de catadores de materiais recicláveis, facilitando a localização de coletas e promovendo impacto socioambiental.
 
-**Palavras-chave:** `Tecnologia` `Geolocalização` `Sustentabilidade` `Impacto social`
+
 
 ---
 
@@ -97,7 +97,7 @@ Solução tecnológica voltada ao apoio de catadores de materiais recicláveis, 
 
 Aplicação de receitas acessíveis para crianças com TEA e seus cuidadores, com filtros e instruções de preparo passo a passo.
 
-**Palavras-chave:** `Acessibilidade` `Experiência do usuário` `Análise de requisitos` `Inclusão`
+
 
 ---
 
@@ -105,7 +105,7 @@ Aplicação de receitas acessíveis para crianças com TEA e seus cuidadores, co
 
 Projeto em desenvolvimento para aplicar Programação Orientada a Objetos, banco de dados, API REST e boas práticas de desenvolvimento.
 
-**Palavras-chave:** `Java` `POO` `SQL` `API REST` `Git` `Docker`
+
 
 ---
 
