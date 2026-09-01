@@ -135,7 +135,7 @@ Projeto em desenvolvimento para aplicar Programação Orientada a Objetos, banco
 
 ---
 
-### 🐍 Minhas contribuições
+## 🐍 Minhas contribuições
 
 <div align="center">
 
