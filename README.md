@@ -18,8 +18,8 @@ Busco construir minha carreira em
   <img src="https://img.shields.io/badge/LinkedIn-Lucas_Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/lucashenrique1-coder">
-  <img src="https://img.shields.io/badge/GitHub-lucashenrique1--coder-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/luquinhasskkj">
+  <img src="https://img.shields.io/badge/GitHub-luquinhasskkj-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -115,19 +115,32 @@ Projeto em desenvolvimento para aplicar Programação Orientada a Objetos, banco
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=lucashenrique1-coder&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=luquinhasskkj&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias"
 />
 
 <br>
 
 <img
   width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucashenrique1-coder&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luquinhasskkj&theme=github_dark"
 />
 
 <img
   width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucashenrique1-coder&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luquinhasskkj&theme=github_dark"
+/>
+
+</div>
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/luquinhasskkj/readme/gh-pages/github-contribution-grid-snake-dark.svg"
+  alt="Snake animation"
 />
 
 </div>
