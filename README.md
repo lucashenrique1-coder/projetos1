@@ -86,13 +86,27 @@ Sistema para gerenciamento de chamados desenvolvido como projeto de estudo em Ba
 
 ---
 
-### ♻️ Ecologic
+### ♻️ EcoLogic
 
 Solução tecnológica voltada ao apoio de catadores de materiais recicláveis, facilitando a localização de oportunidades de coleta e promovendo impacto socioambiental.
 
 **Áreas trabalhadas:**
 
 `Análise de requisitos` `Geolocalização` `UX` `Sustentabilidade`
+
+> 📦 Projeto concluído — documentação e arquivos serão adicionados em breve ao GitHub.
+
+---
+
+### 🍳 Receita Divertida
+
+Aplicação voltada à apresentação de receitas acessíveis para crianças com TEA e seus cuidadores, utilizando filtros e instruções de preparo passo a passo.
+
+**Áreas trabalhadas:**
+
+`Análise de requisitos` `UX` `Figma` `Acessibilidade`
+
+> 📦 Projeto concluído — documentação e arquivos serão adicionados em breve ao GitHub.
 
 ---
 
