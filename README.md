@@ -106,6 +106,7 @@ Aplicação voltada à apresentação de receitas acessíveis para crianças com
 
 `Análise de requisitos` `UX` `Figma` `Acessibilidade`
 
+> 📦 Projeto concluído — documentação e arquivos serão adicionados em breve ao GitHub.
 ---
 
 ## 🎯 Foco atual
